@@ -1,4 +1,4 @@
-"# Rust_IO_Template"
+# Rust_IO_Template
 
 Create an run_code executable sh file
 ```
